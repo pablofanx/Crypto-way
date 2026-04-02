@@ -9,3 +9,5 @@ Community plays a central role in crypto. Unlike traditional companies, many pro
 , developers, and users. Governance can be distributed through tokens, allowing participants to vote on decisions and influence the direction of a project. 
 This creates a more collaborative environment, but also introduces challenges in coordination and decision-making.
 
+
+Speculation is unavoidable in crypto. Many participants enter the space seeking financial gain, 
