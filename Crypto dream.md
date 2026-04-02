@@ -10,4 +10,4 @@ Community plays a central role in crypto. Unlike traditional companies, many pro
 This creates a more collaborative environment, but also introduces challenges in coordination and decision-making.
 
 
-Speculation is unavoidable in crypto. Many participants enter the space seeking financial gain, 
+Speculation is unavoidable in crypto. Many participants enter the space seeking financial gain, and this drives cycles of hype and correction. 
