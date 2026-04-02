@@ -6,4 +6,4 @@ For the first time in history, value can move without permission, without border
 
 The real revolution isn’t the price charts — it’s the shift in power. The question is not whether crypto will change the world, but whether people are ready to handle the control it gives them.
 Community plays a central role in crypto. Unlike traditional companies, many projects are driven by decentralized groups of contributors
-, developers, and users. Governance can be distributed through tokens, 
+, developers, and users. Governance can be distributed through tokens, allowing participants to vote on decisions and influence the direction of a project. 
